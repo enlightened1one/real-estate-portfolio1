@@ -1,0 +1,9 @@
+.hero-1{
+    // background: url('/assets/img/TCS1.jpg'),  cover !important ;
+     background: {
+    image:  linear-gradient(to top right, #000000, #000000e4, #000000dc), url("/assets/img/TCS1.jpg");
+    repeat: no-repeat;
+    position: center;
+    size: cover;
+  }
+}
